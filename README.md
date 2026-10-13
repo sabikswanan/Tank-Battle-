@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/sabikswanan/Tank-Battle-/blob/main/tank_battle%20video.mp4"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH-GAMEPLAY%20VIDEO-EA580C?style=for-the-badge&labelColor=0B0F14" alt="Watch the gameplay video"/></a>
+<a href="#gameplay-video"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH-GAMEPLAY%20VIDEO-EA580C?style=for-the-badge&labelColor=0B0F14" alt="Watch the gameplay video"/></a>
 
 <img src="https://img.shields.io/badge/FEATURES-14-F59E0B?style=for-the-badge&labelColor=0B0F14" alt="14 features"/>
 <img src="https://img.shields.io/badge/WAVES-ENDLESS-EA580C?style=for-the-badge&labelColor=0B0F14" alt="Endless waves"/>
@@ -21,6 +21,7 @@
 <br/><br/>
 
 **[Overview](#overview)** &nbsp;|&nbsp;
+**[Video](#gameplay-video)** &nbsp;|&nbsp;
 **[Controls](#controls)** &nbsp;|&nbsp;
 **[Gameplay](#gameplay)** &nbsp;|&nbsp;
 **[Features](#features)** &nbsp;|&nbsp;
@@ -47,11 +48,14 @@ alive. Every cleared round brings a bigger wave.
 
 Built for **CSE423 — Computer Graphics** at **BRAC University**.
 
-<div align="center">
+<br/>
 
-<a href="https://github.com/sabikswanan/Tank-Battle-/blob/main/tank_battle%20video.mp4"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20gameplay%20video-EA580C?style=for-the-badge&labelColor=0B0F14" alt="Watch the gameplay video"/></a>
+<a name="gameplay-video"></a>
 
-</div>
+## 🎬 Gameplay Video
+
+<!-- GitHub editor e niche er khali line e cursor rekhe tank_battle_gameplay.mp4 drag kore chharo -->
+
 
 <br/>
 
